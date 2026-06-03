@@ -1,0 +1,9 @@
+{
+    "default_bitrate": 192,
+    "default_sample_rate": 44100,
+    "default_channel_mode": "stereo",
+    "output_folder": null,
+    "max_concurrency": 1,
+    "compact_mode": false,
+    "last_opened_directory": null
+}
